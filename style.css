@@ -1,0 +1,86 @@
+body {
+	background-color: rgba(112,29,15,0.54);
+	color: #682c0e;
+	font-family: Dancing Script;
+	font-size: 20px;
+	letter-spacing:   ;
+	line-height: 1.3;
+	text-align: center;
+}
+
+h1{
+	font-family: Henny Penny;
+}
+
+
+
+h2{
+	font-family: Henny Penny;
+
+}
+
+
+
+a{
+	text-decoration: none;
+	font-family: Oleo Script;
+	color: rgba(10,10,200,0.3);
+}
+
+a:hover {
+	color: rgba(100,30,50,0.8);
+}
+
+p{
+	font-size: 30px ;
+
+} 
+
+div{
+	background: rgba(210,110,50,1);
+	width: 800px;
+	padding: 60px;
+	margin: 80px auto ;
+	box-shadow: 0px 10px 30px rgb(116,34,7);
+	border-radius: 35px;
+	}
+	
+perfect-circle {
+	width: 100px;
+	height:100px;
+	border-radius: 50%;
+}
+
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.shadowed {
+	box-shadow: 10px 10px 30px dark brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
